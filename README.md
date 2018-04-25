@@ -1,4 +1,4 @@
-# MultipleEnvironment
+# API Environment
 This repository guide you, how to manage different environments(Development, Testing, Production) with Xcode.
 
 # 1. Manage with multiple targets
