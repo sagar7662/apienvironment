@@ -3,6 +3,6 @@ This repository guide you, how to manage different environments(Development, Tes
 
 # 1. Change your environment using targets
 Go with this link: 
-https://github.com/sagar7662/MultipleEnvironment/tree/master/MultipleEnvironmentWithDifferentTarget
+https://github.com/sagar7662/apienvironment/tree/master/MultipleTarget
 
 # 2. Change your environment using Xcode Configurations
